@@ -1,44 +1,40 @@
-# 01 HTML CSS Git: Code Refactor
+# HW-Week2 Refactoring
+
+## Contents of this file:
+
+- Introduction
+- Requirements
+- Resources
+- Tools Installed
+- Author(s)
+
+### Introduction
 
 One of the most common tasks for front-end and junior developers is to take existing code and refactor it to either meet a certain set of standards or implement a new technology. Web accessibility is an increasingly important consideration for businesses, ensuring that people with disabilities or socio-economic restrictions have access to their website, and helping them avoid litigation.
 
-Your task is to refactor an existing webpage to make it accessible. An important rule to follow when working with someone else's code is the Scout Rule:
+The task is to refactor an existing webpage to make it accessible. An important rule to follow when working with someone else's code is the Scout Rule:
 
-> Always leave the code you are editing a little cleaner than you found it.
+Always leave the code you are editing a little cleaner than you found it.
 
-To impress clients, you should always go the extra mile and improve their codebase for long term sustainability. Ensure that all links are functioning correctly and clean up the CSS to make it more efficient, consolidating CSS selectors and properties, organizing them to follow the semantic structure of the HTML elements, and including comments before each element or section of the page.
+### Requirements
 
-## User Story
+1. Ensure that all links are functioning correctly and clean up the CSS to make it more efficient
+2. Consolidate CSS selectors and properties, organizing them to follow the semantic structure of the HTML elements
+3. Include comments before each element or section of the page when needed
+4. Submit URL of the deployed application and include a README
 
-```
-AS A marketing agency
-I WANT a codebase that follows accessibility standards
-SO THAT our own site is optimized for search engines
-```
+### Resources
 
-## Acceptance Criteria
+- classroom slack channels; activities T/A assistance, and resources
+- online: Youtube, Stackoverflow, W3schools, Upskill
 
-```
-GIVEN a webpage meets accessibility standards
-WHEN I view the source code
-THEN I find semantic HTML elements
-WHEN I view the structure of the HTML elements
-THEN I find that the elements follow a logical structure independent of styling and positioning
-WHEN I view the image elements
-THEN I find accessible alt attributes
-WHEN I view the heading attributes
-THEN they fall in sequential order
-WHEN I view the title element
-THEN I find a concise, descriptive title
-```
+### Tools Installed
 
-## Review
+- Zoom
+- Vscode
+- Slack
 
-You are required to submit the following for review:
+### Source
 
-* The URL of the deployed application.
-
-* The URL of the GitHub repository. Give the repository a unique name and include a README describing the project.
-
-- - -
-© 2019 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
+Author: Sosuke Brause
+Github Repo: https://sosukebrause.github.io/HW-Week2/
