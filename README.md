@@ -36,5 +36,5 @@ Always leave the code you are editing a little cleaner than you found it.
 
 ### Source
 
-Author: Sosuke Brause
-Github Repo: https://sosukebrause.github.io/HW-Week2/
+- Author: Sosuke Brause
+- Github Repo: https://sosukebrause.github.io/HW-Week2/
